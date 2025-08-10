@@ -12,6 +12,7 @@ Além dos bancos de dados, mensageria e cache necessários.
 
 Para que o `docker-compose.yml` funcione corretamente, a **estrutura de diretórios** precisa ser:
 
+```
 /
 ├── docker-compose.yml
 ├── client-service/
@@ -23,6 +24,7 @@ Para que o `docker-compose.yml` funcione corretamente, a **estrutura de diretór
 └── gateway/
 ├── Dockerfile
 └── ..
+```
 
 
 
